@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/l6_z1.dir/main.cpp.o CMakeFiles/l6_z1.dir/mywidget.cpp.o CMakeFiles/l6_z1.dir/l6_z1_automoc.cpp.o  -o l6_z1 -rdynamic /usr/lib/i386-linux-gnu/libQt5Widgets.so.5.5.1 /usr/lib/i386-linux-gnu/libQt5Network.so.5.5.1 /usr/lib/i386-linux-gnu/libQt5Gui.so.5.5.1 /usr/lib/i386-linux-gnu/libQt5Core.so.5.5.1 
