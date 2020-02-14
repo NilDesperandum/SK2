@@ -1,0 +1,4 @@
+/home/lukas/Pulpit/Client/Test-build/CMakeFiles/edit_cache.dir
+/home/lukas/Pulpit/Client/Test-build/CMakeFiles/rebuild_cache.dir
+/home/lukas/Pulpit/Client/Test-build/CMakeFiles/l6_z1.dir
+/home/lukas/Pulpit/Client/Test-build/CMakeFiles/l6_z1_automoc.dir
